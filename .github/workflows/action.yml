@@ -3,7 +3,7 @@ name: PR Test Cases
 on:
   push:
     paths:
-      - '**.md'
+      - 'one/**'
     tags:         
       - 'v**' 
       
