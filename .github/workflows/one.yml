@@ -1,4 +1,4 @@
-name: PR Test Cases
+name: Deploy to MS ONE
 
 on:
   push:
