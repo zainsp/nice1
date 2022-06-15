@@ -1,5 +1,5 @@
 
-name: PR Test Cases
+name: Deploy TO DEV
 
 on:
   push:
